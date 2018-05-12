@@ -1,0 +1,25 @@
+_repo: Delenda-est-Carthago-_32001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pereira, Eduardo C. N. (Eduardo Clemente Nunes)
+    birthdate: 1887
+    gutenberg_agent_id: '35610'
+    url: http://www.gutenberg.org/2009/agents/35610
+description: ''
+gutenberg_issued: '2010-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32001'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secret societies -- Portugal'
+- !lcc 'DP'
+title: Delenda est Carthago!
+url: http://www.gutenberg.org/ebooks/32001
